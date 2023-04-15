@@ -1,2 +1,2 @@
 # ProcFaturasOCR
- Processamento de faturas, aplicação de OCR e regex em arquivos pdf.
+## Um robô de Processamento de faturas, aplicação de OCR para leitura de dados específicos em um arquivo pdf usando regex e a ferramenta OmniOCR que é capaz de ler os dados de arquivos PDF digitalizados.
